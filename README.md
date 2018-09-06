@@ -2,10 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
 
-
 # requirement:
 1) angular cli
-2) visual studio code 
+2) visual studio code...... 
 first install angular in your system and then  create new application using this command-> 'ng new "application name"'.
 open your code in visual studio code.
 
